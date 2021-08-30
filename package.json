@@ -18,7 +18,7 @@
     "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "npm-force-resolutions": "^0.0.10",
-    "postcss": "^7.0.36",
+    "postcss": "^8.3.6",
     "tailwindcss": "^1.9.6",
     "vue": "^2.6.11",
     "vue-datocms": "^0.0.4",
