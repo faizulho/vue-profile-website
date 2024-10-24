@@ -20,7 +20,7 @@
     "npm-force-resolutions": "^0.0.10",
     "postcss": "^8.3.6",
     "tailwindcss": "^1.9.6",
-    "vue": "^2.6.11",
+    "vue": "^3.5.12",
     "vue-datocms": "^0.0.4",
     "vue-meta": "^2.3.3"
   },
